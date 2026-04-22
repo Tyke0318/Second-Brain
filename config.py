@@ -1,0 +1,2 @@
+# 将你的 Key 填在这里，不要上传到 GitHub
+ZHIPUAI_API_KEY = "a41084e1677942cc8d89722b67dbb740.x4S3mJEqDL98hYnp"
